@@ -4,8 +4,8 @@
 - **Họ và tên:** Vũ Hồng Phong 
 - **Mã số sinh viên:** 24810320183
 - **Lớp:** D19QTANM1
-- **Tên môn học:** Lập trình.
-- **Tên bài tập:** [Điền tên bài tập tại đây]
+- **Tên môn học:** Lập trình.NET
+- **Tên bài tập:** Bài tập 1 
 
 ---
 
